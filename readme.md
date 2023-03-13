@@ -19,3 +19,5 @@ py collatz_graph.py -n 15
 
 You should get something like this
 ![example graph](https://github.com/andrew3314/collatz/blob/main/collatz-graph.svg)
+
+Code credits to https://martin-thoma.com/the-collatz-sequence/
