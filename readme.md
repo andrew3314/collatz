@@ -18,4 +18,4 @@ py collatz_graph.py -n 15
 ````
 
 You should get something like this
-![alt text](https://github.com/andrew3314/collatz/collatz-graph.svg?raw=true)
+![alt text](https://github.com/andrew3314/collatz/main/collatz-graph.svg)
