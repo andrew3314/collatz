@@ -18,3 +18,4 @@ py collatz_graph.py -n 15
 ````
 
 You should get something like this
+![example graph](https://raw.githubusercontent.com/andrew3314/collatz/main/collatz-graph.svg)
