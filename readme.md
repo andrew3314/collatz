@@ -9,3 +9,13 @@ Once you got all done, run it like the following:
 ````
 py collatz_graph.py -n [the limit number, default is 20] -p [layout mode (check Graphviz docs on it)]
 ````
+
+## Example
+Running the following from your command line
+
+````
+py collatz_graph.py -n 15
+````
+
+You should get something like this
+![alt text](https://github.com/andrew3314/collatz/collatz-graph.svg?raw=true)
