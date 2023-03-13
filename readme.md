@@ -2,7 +2,7 @@
 A simple script that generates svg files with Collatz graphs for any given limit of numbers.
 
 ## Running
-First, make sure you have the latest distribuition of Graphviz installed(check https://graphviz.org/download/ case you don't). Also remember to setup a virtual enviroment for running the code(you can use venv).
+First, make sure you have the latest distribuition of Graphviz installed (check https://graphviz.org/download/ case you don't). Also remember to setup a virtual enviroment for running the code (you can use venv).
 
 ````
 py -m venv env 
